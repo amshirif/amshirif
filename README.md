@@ -1,5 +1,11 @@
-### Hello, World!
+## Hello, World! I'm Amir!
 
-A forward-thinking and innovative Lead Blockchain Engineer, my journey in the blockchain realm commenced during my tenure at New York University, where I pursued a Master of Science in Computer Science. My academic pursuits laid a solid foundation in blockchain technology, paving the way for a career that blends technical prowess with strategic insight. Currently, at Telcoin in Santa Monica, CA, I am at the forefront of developing and managing on-chain infrastructure across Ethereum, Polygon, and the developmental Telcoin Network, overseeing assets with a total locked value (TLV) of $100M USD. My role involves spearheading the integration of blockchain technologies, coordinating closely with security and finance departments, and leading the blockchain department towards innovative solutions in smart contract development and cross-chain functionalities.
+My first passion was chemistry — I was fascinated by how simple elements could combine into something entirely new. That fascination led me to study Chemical Engineering, where I learned how small interactions can scale into complex, balanced systems.
 
-Beyond my professional endeavors, I am deeply engaged in the DeFi space during my free time, actively participating in staking, voting in governance, and running my own blockchain validator nodes. This engagement not only showcases my passion for blockchain technology but also provides me with a hands-on understanding of the latest trends and innovations in the DeFi sector. My comprehensive experience and active participation in the blockchain community underscore my commitment to advancing the field and contributing to its sustainable growth.
+Years later, I found myself drawn to blockchain for almost the same reason. It felt like rediscovering that same sense of structure and discovery — a world built on first principles, where math replaces molecules. The blockchain became my new lab.
+
+I went on to earn my Master’s in Computer Science at NYU, bridging that analytical mindset into engineering software systems. Since then, I’ve worked across Ethereum, Polygon, and Base, designing smart contract architectures, governance frameworks, and tokenized infrastructure.
+
+Today, I’m the Lead Smart Contract Engineer at Flip Protocol, where we’re reimagining how people interact with markets and liquidity through transparent, decentralized systems. Before that, I led blockchain development at Telcoin, helping build staking, governance, and stablecoin frameworks that connected DeFi with real-world finance.
+
+For me, both chemistry and blockchain scratch the same itch — understanding the rules of a system deeply enough to create something new from them. I’m always excited to explore that boundary between structure and innovation.
